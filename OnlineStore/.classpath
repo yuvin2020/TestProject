@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Softwares/Cucumber Setup/Cucumber Jar Files/cobertura-1.8.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Cucumber Setup/Cucumber Jar Files/cucumber-core-1.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Cucumber Setup/Cucumber Jar Files/cucumber-java-1.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Cucumber Setup/Cucumber Jar Files/cucumber-junit-1.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Cucumber Setup/Cucumber Jar Files/cucumber-jvm-deps-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Cucumber Setup/Cucumber Jar Files/cucumber-reporting-0.0.23.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Cucumber Setup/Cucumber Jar Files/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Cucumber Setup/Cucumber Jar Files/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Cucumber Setup/Cucumber Jar Files/mockito-all-1.10.8.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Cucumber Setup/Selenium WebDriver Jar File/jar_files/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Cucumber Setup/Selenium WebDriver Jar File/jar_files/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Cucumber Setup/Selenium WebDriver Jar File/jar_files/checker-compat-qual-2.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Cucumber Setup/Selenium WebDriver Jar File/jar_files/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Cucumber Setup/Selenium WebDriver Jar File/jar_files/error_prone_annotations-2.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Cucumber Setup/Selenium WebDriver Jar File/jar_files/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Cucumber Setup/Selenium WebDriver Jar File/jar_files/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Cucumber Setup/Selenium WebDriver Jar File/jar_files/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Cucumber Setup/Selenium WebDriver Jar File/jar_files/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Cucumber Setup/Selenium WebDriver Jar File/jar_files/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Cucumber Setup/Selenium WebDriver Jar File/jar_files/selenium-api-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Cucumber Setup/Selenium WebDriver Jar File/jar_files/selenium-chrome-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Cucumber Setup/Selenium WebDriver Jar File/jar_files/selenium-edge-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Cucumber Setup/Selenium WebDriver Jar File/jar_files/selenium-firefox-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Cucumber Setup/Selenium WebDriver Jar File/jar_files/selenium-ie-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Cucumber Setup/Selenium WebDriver Jar File/jar_files/selenium-java-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Cucumber Setup/Selenium WebDriver Jar File/jar_files/selenium-opera-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Cucumber Setup/Selenium WebDriver Jar File/jar_files/selenium-remote-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Cucumber Setup/Selenium WebDriver Jar File/jar_files/selenium-safari-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Cucumber Setup/Selenium WebDriver Jar File/jar_files/selenium-support-3.141.59.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
